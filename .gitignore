@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+
+# Relatórios gerados
+reports/
+
+# Arquivos de build
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE
+.idea/
+*.swp
+*.swo
